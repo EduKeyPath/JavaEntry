@@ -1,6 +1,6 @@
 package JavaEntry;
 
-public class MathEx5 {
+public class MathEx6 {
     public static void main(String[] arg){
         byte x = 10;
         byte y = 5;
