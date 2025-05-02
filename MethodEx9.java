@@ -36,7 +36,6 @@ public class MethodEx9 {
         }
     }
 
-
     public static void main(String[] args){
         firstMethod();
         printMyName("Banti", 001);

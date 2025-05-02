@@ -52,7 +52,5 @@ public class DataTypeEx2 {
             ", the price of the product is " + productPrice + 
             ", so total amount will be " + totalPrice +
             ", and the price need to pay in " + rupee);
-        
-
     }
 }

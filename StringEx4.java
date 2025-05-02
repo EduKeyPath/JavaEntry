@@ -18,6 +18,5 @@ public class StringEx4 {
         String speText = "If you have a some \"special's\" text in between text";
         System.out.println(speText);
 
-
     }
 }

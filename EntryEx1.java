@@ -46,8 +46,5 @@ public class EntryEx1 {
         System.out.println("Addition - " + (x += y));  // x = x + y, here x is now 15;
         System.out.println("Multiply - " + (x *= y));  // x = x * y, as x is 15, now 15 * 5 = 75;
 
-        
-
-
     }
 }

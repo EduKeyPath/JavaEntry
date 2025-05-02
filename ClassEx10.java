@@ -24,11 +24,9 @@ public class ClassEx10 { // Class is a bluprint
         System.out.println(classObj2.y);
 
 
+        // Import class from another class
         ClassImportEx10 importClass = new ClassImportEx10();
         importClass.printMyName("Banti Shaw");
-
-
-
-
+        
     }
 }

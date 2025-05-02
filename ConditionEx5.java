@@ -71,10 +71,5 @@ public class ConditionEx5 {
                 System.out.println("Number is not a valid month");
                 break;
         }
-
-
-
-
-
     }
 }

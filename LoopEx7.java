@@ -63,5 +63,4 @@ public class LoopEx7 {
             System.out.println(i);
         }
     }
-    
 }

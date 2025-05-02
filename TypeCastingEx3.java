@@ -13,11 +13,6 @@ public class TypeCastingEx3 {
         short getMarks = 450;
         float markPercent = (float) getMarks / passMarks * 100.0f;   // Manual casting: short to float
         System.out.println(markPercent);
-
-
-
-
         
-
     }
 }
